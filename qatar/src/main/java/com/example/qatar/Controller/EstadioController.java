@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.example.qatar.model.Resultado;
 import com.example.qatar.model.Estadio;
 import com.example.qatar.model.Partido;
-import com.example.qatar.repository.PartidoRepository;
+import com.example.qatar.repository.EstadioRepository;
 
 import java.util.List;
 import java.util.Optional;
